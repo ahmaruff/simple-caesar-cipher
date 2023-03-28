@@ -1,7 +1,7 @@
 <?php
 session_start();
 ob_start();
-require "./chiper.php";
+require "./cipher.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -16,7 +16,7 @@ require "./chiper.php";
     <?php include("header.php") ?>
     <main>
         <div style="margin-bottom: 15px;">
-            <a href="index.php">Back to index</a> \\
+            <a href="index.php">Home</a> \\
             <a href="dekripsi.php">Dekripsi Text</a>
         </div>
         <article>
@@ -52,7 +52,7 @@ require "./chiper.php";
             </section>
         </article>
         <br>
-        <a href="index.php">Back to index</a> \\
+        <a href="index.php">Home</a> \\
         <a href="dekripsi.php">Dekripsi Text</a>
     </main>
     <?php include("footer.php") ?>
