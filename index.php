@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
-    <title>CAESAR CIPHER GEN</title>
+    <title>CAESAR CIPHER GENERATOR</title>
     <style>
         .monospace {
             font-family: 'Courier New', Courier, monospace;
@@ -29,12 +29,12 @@
                 <h3>Tentang Caesar Cipher</h3>
                 <p>
                     Caesar Cipher merupakan teknik enkripsi sederhana dengan mensubstitusikan suatu karakter huruf dengan karakter lain yang memiliki selisih poin tertentu.
-                    Lebih lanjut mengenai Caesar Chiper, bisa dilihat pada halaman <a href="https://id.wikipedia.org/wiki/Sandi_Caesar">berikut</a>
+                    Lebih lanjut mengenai Caesar Cipher, bisa dilihat pada halaman <a href="https://id.wikipedia.org/wiki/Sandi_Caesar">berikut</a>
                     dan <a href="https://en.wikipedia.org/wiki/ROT13">halaman berikut</a>
                 </p>
                 <hr>
                 <p>
-                    Contoh: jika menggunakan key <strong>"geser 3 kekanan" atau  "geser +3":</strong>
+                    Contoh: jika menggunakan key <strong>"geser 3 kekanan" atau  "geser 3 kali":</strong>
                 </p>
                 <table>
                     <tr>
@@ -74,7 +74,7 @@
                 <table>
                     <tr>
                         <td>Key</td>
-                        <td>+3</td>
+                        <td>3</td>
                     </tr>
                     <tr>
                         <td>Plaintext</td>
