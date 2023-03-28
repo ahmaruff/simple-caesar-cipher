@@ -46,6 +46,8 @@
                         <td class="monospace">DEFGHIJKLMNOPQRSTUVWXYZABC</td>
                     </tr>
                 </table>
+                <hr>
+                <a href="kode-cipher.php">Generate kode cipher</a>
             </div>
             <div>
                 <h3>Proses enkripsi dan dekripsi</h3>
